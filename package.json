@@ -1,0 +1,16 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "`git clone <this-repo>` `tsc && node dist/index.js`",
+  "main": "loops.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node-fetch": "^2.1.2",
+    "node-fetch": "^2.2.0"
+  }
+}
