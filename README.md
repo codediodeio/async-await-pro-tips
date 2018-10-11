@@ -1,3 +1,3 @@
-# You Suck at Promises
+# Async Await Pro Tips
 
-Watch the YouTube Video
+Learn how to [write beautiful async code](https://youtu.be/vn3tm0quoqE)
