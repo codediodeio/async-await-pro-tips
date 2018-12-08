@@ -24,8 +24,8 @@ const makeSmoothie2 = () => {
   let a;
   return getFruit('pineapple')
     .then(v => {
-      v = a;
+      a = v;
       return getFruit('strawberry');
     })
-    .then(v => [v, a]);
+    .then(v => [a, v]);
 };
